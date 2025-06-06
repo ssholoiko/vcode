@@ -1,4 +1,4 @@
-# vcode
+## vcode
 
 `vcode` — DevOps CLI-інструмент, написаний на Go з використанням `cobra`.
 
